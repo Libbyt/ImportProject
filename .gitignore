@@ -1,0 +1,10 @@
+.tmp/
+#tmp folder
+*_old
+#files with _old in name
+*_backup
+#files with _backup in name
+*Thumbs.db
+#Self-explanatory
+*.DS_Store
+#Same
